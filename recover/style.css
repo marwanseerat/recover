@@ -1,0 +1,50 @@
+body{
+    margin-left:15%;
+    margin-right: 15%;
+}
+
+h1{
+    text-align: center;
+}
+#h{
+    text-align: left;
+}
+#four{
+    float: right;
+}
+nav{
+    margin: 50px;
+    font-size: larger; 
+    color: blue;
+}
+a{
+    padding: 5px;
+}
+
+aside{
+    float: right;
+    height: 500px;
+    width: 150px;
+    margin-top: -750px;
+}
+aside img{
+    height: 40px;
+    width: 150px;
+}
+
+article img {
+    height:50%;
+    width: 80%;
+}
+
+article p{
+    text-align: left;
+    margin-right: 200px;
+    
+}
+footer{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    margin-top: 5%;
+}
